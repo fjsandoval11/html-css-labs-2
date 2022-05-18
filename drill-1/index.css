@@ -1,0 +1,28 @@
+header{
+    width: 100%;
+    height: 20vh;
+    background-color:#444444;
+}
+
+body{
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: #D8D8D8;
+
+}
+
+main{
+width: 75%;
+height: 70vh;
+background-color: blue;
+margin: 0 auto;
+
+}
+
+footer{
+    background-color: #222222;
+  width: 75%;
+  height: 10vh;
+  margin: 0 auto;
+}
